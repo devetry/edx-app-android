@@ -1,0 +1,13 @@
+API_HOST_URL: 'http://10.0.2.2:18000' # localhost is 10.0.2.2 in Android
+ENVIRONMENT_DISPLAY_NAME: 'YTP'
+PLATFORM_NAME: 'YTP'
+PLATFORM_DESTINATION_NAME: 'http://10.0.2.2:18000/'
+FEEDBACK_EMAIL_ADDRESS: 'katien@devetry.com'
+OAUTH_CLIENT_ID: 'a695f657b5b788c96d7c'
+
+COURSE_ENROLLMENT:
+  TYPE: 'native'
+
+GOOGLE:
+   ENABLED: true
+   GOOGLE_PLUS_KEY: '336160878161-l7mq9glea06ghv61mm7hnvui2l06u5og.apps.googleusercontent.com'
